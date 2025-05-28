@@ -13,9 +13,7 @@ A machine learning web app built with **TensorFlow** and **Streamlit** that pred
 
 [Live App on Streamlit Cloud](https://share.streamlit.io/your-username/insurance-predictor)
 
-## 📸 Screenshot
 
-![App Screenshot](assets/screenshot.png)
 
 ## 🔍 Features
 
