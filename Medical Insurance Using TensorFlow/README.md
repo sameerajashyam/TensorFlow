@@ -1,8 +1,8 @@
 ## 📸 Screenshot
 
-![App Screenshot](assets/Output-1)
+![App Screenshot](assets/Output-1.JPG)
 
-![App Screenshot](assets/Output-2.)
+![App Screenshot](assets/Output-2.JPG)
 
 
 # 🧮 Insurance Charges Prediction App
